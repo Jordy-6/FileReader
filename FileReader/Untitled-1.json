@@ -1,0 +1,8 @@
+{
+ "fruits": [
+   {"mangues": 4,
+     "pommes": null
+   },
+   { "panier": true }
+ ]
+}
